@@ -1,11 +1,11 @@
 // Change this version number whenever you update your app's files
-const CACHE_NAME = 'aera-text-fixer-v1';
+const CACHE_NAME = 'aera-text-fixer-v2';
 const urlsToCache = [
   './',
   './index.html',
   './style.css',
   './app.js',
-  './icon.svg'
+  './icon.svg',
   './manifest.json'
 ];
 
